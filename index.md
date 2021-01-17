@@ -2,6 +2,7 @@
 Hey stranger! I'm Hasan. Welcome to my personal space. Here, you can see the projects that I'm working on. Maybe there could be much more in the future.
 
 ## Projects 
+* [Inventory Management System](#inventory-management-system)
 * [Raytracer](#raytracer)
 * [Bresenham's Algorithm](#bresenhams-algorithm)
 * [3D Survival Simulation Game](#3d-survival-simulation-game)
@@ -12,21 +13,62 @@ Hey stranger! I'm Hasan. Welcome to my personal space. Here, you can see the pro
 * [The Mayor](#the-mayor)
 * [Computer Graphics Exercises](#computer-graphics-exercises)
 
+### Inventory Management System
+A prototype of an inventory management system implemented by using Unity and C#. I tried to implement DayZ and Escape From Tarkov like inventory system. There are still lots of features to do like filtering, rotatable items etc. It is a basic inventory management system for now.
+
+Playable on [itch.io](https://hasanheroglu.itch.io/inventorymanagementsystem).
+
+Source code is available [here](https://github.com/hasanheroglu/InventoryManagementSystem).
+
 ### Raytracer
+A raytracer implementation using C++. Right now, reflection and refraction is missing but I am planning to add them as soon as possible.
+
+Source code is available [here](https://github.com/hasanheroglu/RayTracer).
+
 ### Bresenham's Algorithm
+Bresenham's Algorithm implementation to draw triangles using C++. I just did not stop with triangles and implemented it for circles too. If I want to go further from here, it could be a start of an image manipulation program. 
+
+Source code is available [here](https://github.com/hasanheroglu/bresenhamsalgorithm).
+
 ### 3D Survival Simulation Game
+A game I made as a graduation project. 
+
+Source code is available [here](https://github.com/hasanheroglu/graduationproject).
+
 ### RunNDash
+A prototype of Endless Runner type of game I made. Player have an ability of dash to dodge obstacles.
+Playable on [itch.io](https://hasanheroglu.itch.io/runndash).
+
+Source code is available [here](https://github.com/hasanheroglu/runndash).
+
 ### VOTIT
+A web-based poll application I made with my peers Berk Kaan Bilir, Ilmiye Elisa Pasaoglu and Orhan Hancer for our Software Engineering (BLG411E) course at ITU. Spring Boot and React.js is used for implementation of the project.
+
+Source code of the frontend implementation is [here](https://github.com/hasanheroglu/Votit-Frontend).
+Source code of backend implementation is [here](https://github.com/hasanheroglu/Votit-Backend).
+
 ### Movie Database Web Application
+A web-based movie database application I made during my internship at OBSS. Spring Boot and React.js is used for implementation of the project.
+
+Source code of the frontend implementation is [here](https://github.com/hasanheroglu/MovieDatabaseApp-Frontend).
+Source code of backend implementation is [here](https://github.com/hasanheroglu/MovieDatabaseApp-Backend).
+
 ### LUP!
+A puzzle game made with Unity using C#. The objective of the game is to make the ball reach to the green tile. There are 50 playable levels and customization options for your ball which affects appearance and sound effects.
+
+Downloadable on [itch.io](https://hasanheroglu.itch.io/lupthegame).
+
+Source code is available [here](https://github.com/hasanheroglu/LUP).
+
 ### The Mayor
+
 ### Computer Graphics Exercises
 WebGL exercises made using WebGL.
+
 #### Creating points, triangles and circles
 
 #### Aircraft model
-![aircraft-gif](/media/aircraft.gif)
-<img src="/media/aircraft.gif" alt="aircraft-gif" width="300"/>
+<img src="/media/aircraft.gif" alt="aircraft-gif" width="500"/>
 
 ### Contact
 Contact me from hasanheroglu@gmail.com
