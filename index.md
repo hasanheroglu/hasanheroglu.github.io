@@ -51,11 +51,15 @@ Source code is available [here](https://github.com/hasanheroglu/runndash).
 ### VOTIT
 A web-based poll application I made with my peers Berk Kaan Bilir, Ilmiye Elisa Pasaoglu and Orhan Hancer for our Software Engineering (BLG411E) course at ITU. Spring Boot and React.js is used for implementation of the project.
 
+<img src="/media/votit.gif" alt="votit" width="500"/>
+
 Source code of the frontend implementation is [here](https://github.com/hasanheroglu/Votit-Frontend).
 Source code of backend implementation is [here](https://github.com/hasanheroglu/Votit-Backend).
 
 ### Movie Database Web Application
 A web-based movie database application I made during my internship at OBSS. Spring Boot and React.js is used for implementation of the project.
+
+<img src="/media/moviedatabase.gif" alt="movie_database" width="500"/>
 
 Source code of the frontend implementation is [here](https://github.com/hasanheroglu/MovieDatabaseApp-Frontend).
 Source code of backend implementation is [here](https://github.com/hasanheroglu/MovieDatabaseApp-Backend).
