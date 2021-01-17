@@ -25,7 +25,7 @@ A raytracer implementation using C++. Right now, reflection and refraction is mi
 
 In below, you can see the result I get from my raytracer.
 
-<img src="/media/raytracer_result.ppm" alt="raytracer-result" width="500"/>
+<img src="/media/raytracer_result.png" alt="raytracer-result" width="500"/>
 
 Source code is available [here](https://github.com/hasanheroglu/RayTracer).
 
@@ -41,6 +41,9 @@ Source code is available [here](https://github.com/hasanheroglu/graduationprojec
 
 ### RunNDash
 A prototype of Endless Runner type of game I made. Player have an ability of dash to dodge obstacles.
+
+<img src="/media/runndash.gif" alt="runndash-gif" width="500"/>
+
 Playable on [itch.io](https://hasanheroglu.itch.io/runndash).
 
 Source code is available [here](https://github.com/hasanheroglu/runndash).
