@@ -14,14 +14,18 @@ Hey stranger! I'm Hasan. Welcome to my personal space. Here, you can see the pro
 * [Computer Graphics Exercises](#computer-graphics-exercises)
 
 ### Inventory Management System
-A prototype of an inventory management system implemented by using Unity and C#. I tried to implement DayZ and Escape From Tarkov like inventory system. There are still lots of features to do like filtering, rotatable items etc. It is a basic inventory management system for now.
+A prototype of an inventory management system implemented by using Unity and C#. I tried to implement DayZ and Escape From Tarkov like inventory system. There are still lots of features to do like filtering, rotatable items etc. It is a basic inventory management system for now. When an item is placed in the inventory, it does not allow any other item to fit in the same place occupied by the item.
 
-Playable on [itch.io](https://hasanheroglu.itch.io/inventorymanagementsystem).
+<img src="/media/ims.gif" alt="ims-gif" width="500"/>
 
 Source code is available [here](https://github.com/hasanheroglu/InventoryManagementSystem).
 
 ### Raytracer
 A raytracer implementation using C++. Right now, reflection and refraction is missing but I am planning to add them as soon as possible.
+
+In below, you can see the result I get from my raytracer.
+
+<img src="/media/raytracer_result.ppm" alt="raytracer-result" width="500"/>
 
 Source code is available [here](https://github.com/hasanheroglu/RayTracer).
 
