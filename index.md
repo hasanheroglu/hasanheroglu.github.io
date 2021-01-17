@@ -25,8 +25,8 @@ WebGL exercises made using WebGL.
 #### Creating points, triangles and circles
 
 #### Aircraft model
-![aircraft-gif](https://github.com/hasanheroglu/Computer-Graphics/blob/main/final_project/aircraft.gif)
-<img src="https://github.com/hasanheroglu/Computer-Graphics/blob/main/final_project/aircraft.gif" alt="aircraft-gif" width="300"/>
+![aircraft-gif](/media/aircraft.gif)
+<img src="/media/aircraft.gif" alt="aircraft-gif" width="300"/>
 
 ### Contact
 Contact me from hasanheroglu@gmail.com
