@@ -1,5 +1,5 @@
-# Welcome to HHE's Personal Space
-Hey stranger! I'm Hasan. Welcome to my personal space. Here, you can see the projects that I'm working on. Maybe there could be much more in the future.
+# Who is this?
+Hey stranger! I'm Hasan. I graduated from Istanbul Technical University with a degree in Computer Engineering. I love games and game development. Also computer graphics is one of my interests. Here, in this page, you can see the various projects I did and contributed. 
 
 # Contact
 Contact me from hasanheroglu@gmail.com
@@ -14,7 +14,6 @@ Contact me from hasanheroglu@gmail.com
   * [3D Survival Simulation Game](#survival-simulation-game)
   * [RunNDash](#runndash)
   * [LUP!](#lup)
-  * [The Mayor](#the-mayor)
   * [2D Infiltration Game](#infiltration-game)
 * [Web Applications](#web-applications)
   * [VOTIT - Poll Application](#votit)
@@ -86,8 +85,6 @@ A puzzle game made with Unity using C#. The objective of the game is to make the
 Downloadable on [itch.io](https://hasanheroglu.itch.io/lupthegame).
 
 Source code is available [here](https://github.com/hasanheroglu/LUP).
-
-### The Mayor
 
 ### Infiltration Game
 A game we made together with my peers Chris Katsikiotis, Jesualdo Garcia and Marcus von Christensen for Introduction to Computer Game Prototyping(02823) at DTU.
