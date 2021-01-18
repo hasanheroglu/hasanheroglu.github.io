@@ -12,6 +12,7 @@ Hey stranger! I'm Hasan. Welcome to my personal space. Here, you can see the pro
 * [LUP!](#lup)
 * [The Mayor](#the-mayor)
 * [Computer Graphics Exercises](#computer-graphics-exercises)
+* [2D Infiltration Game](#2d-infiltration-game)
 
 ### Inventory Management System
 A prototype of an inventory management system implemented by using Unity and C#. I tried to implement DayZ and Escape From Tarkov like inventory system. There are still lots of features to do like filtering, rotatable items etc. It is a basic inventory management system for now. When an item is placed in the inventory, it does not allow any other item to fit in the same place occupied by the item.
@@ -29,10 +30,12 @@ In below, you can see the result I get from my raytracer.
 
 Source code is available [here](https://github.com/hasanheroglu/RayTracer).
 
-### Bresenham's Algorithm
+### Bresenham's Line Algorithm
 Bresenham's Algorithm implementation to draw triangles using C++. I just did not stop with triangles and implemented it for circles too. If I want to go further from here, it could be a start of an image manipulation program. 
 
-Source code is available [here](https://github.com/hasanheroglu/bresenhamsalgorithm).
+<img src="/media/bresenham_result.png" alt="bresenham-result" width="500"/>
+
+Source code is available [here](https://github.com/hasanheroglu/Bresenham-s-Line-Algorithm).
 
 ### 3D Survival Simulation Game
 A game I made as a graduation project. 
@@ -54,6 +57,7 @@ A web-based poll application I made with my peers Berk Kaan Bilir, Ilmiye Elisa 
 <img src="/media/votit.gif" alt="votit" width="500"/>
 
 Source code of the frontend implementation is [here](https://github.com/hasanheroglu/Votit-Frontend).
+
 Source code of backend implementation is [here](https://github.com/hasanheroglu/Votit-Backend).
 
 ### Movie Database Web Application
@@ -62,10 +66,15 @@ A web-based movie database application I made during my internship at OBSS. Spri
 <img src="/media/moviedatabase.gif" alt="movie_database" width="500"/>
 
 Source code of the frontend implementation is [here](https://github.com/hasanheroglu/MovieDatabaseApp-Frontend).
+
 Source code of backend implementation is [here](https://github.com/hasanheroglu/MovieDatabaseApp-Backend).
 
 ### LUP!
 A puzzle game made with Unity using C#. The objective of the game is to make the ball reach to the green tile. There are 50 playable levels and customization options for your ball which affects appearance and sound effects.
+
+<img src="/media/lup_01.gif" alt="lup01-gif" height="500"/> <img src="/media/lup_02.gif" alt="lup02-gif" height="500"/>
+<img src="/media/lup_03.gif" alt="lup03-gif" height="500"/>
+
 
 Downloadable on [itch.io](https://hasanheroglu.itch.io/lupthegame).
 
@@ -80,6 +89,9 @@ WebGL exercises made using WebGL.
 
 #### Aircraft model
 <img src="/media/aircraft.gif" alt="aircraft-gif" width="500"/>
+
+### 2D Infiltration Game
+A game we made together with my peers Chris Katsikiotis, Jesualdo Garcia and Marcus von Christensen for Introduction to Computer Game Prototyping(02823) at DTU.
 
 ### Contact
 Contact me from hasanheroglu@gmail.com
