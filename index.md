@@ -93,8 +93,8 @@ WebGL exercises made using WebGL.
 ### 2D Infiltration Game
 A game we made together with my peers Chris Katsikiotis, Jesualdo Garcia and Marcus von Christensen for Introduction to Computer Game Prototyping(02823) at DTU.
 
-<img src="/media/inf_01.gif" alt="inf01-gif" width="400"/><img src="/media/inf_02.gif" alt="inf02-gif" width="400"/>
-<img src="/media/inf_03.gif" alt="inf03-gif" width="400"/><img src="/media/inf_04.gif" alt="inf04-gif" width="400"/>
+<img src="/media/inf_01.gif" alt="inf01-gif" width="300"/><img src="/media/inf_02.gif" alt="inf02-gif" width="300"/>
+<img src="/media/inf_03.gif" alt="inf03-gif" width="300"/><img src="/media/inf_04.gif" alt="inf04-gif" width="300"/>
 
 ### Contact
 Contact me from hasanheroglu@gmail.com
