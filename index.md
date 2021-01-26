@@ -12,6 +12,7 @@ Contact me from hasanheroglu@gmail.com
 * [Games & Prototypes](#games-and-prototypes)
   * [Inventory Management System](#inventory-management-system)
   * [3D Survival Simulation Game](#survival-simulation-game)
+  * [3D Picker](#picker)
   * [RunNDash](#runndash)
   * [LUP!](#lup)
   * [2D Infiltration Game](#infiltration-game)
@@ -63,9 +64,19 @@ A prototype of an inventory management system implemented by using Unity and C#.
 Source code is available [here](https://github.com/hasanheroglu/InventoryManagementSystem).
 
 ### Survival Simulation Game
-A game I made as a graduation project. 
+A game I made as a graduation project. The game allows different characters to interact with the world differently. Source code is written in such way that developers can easily add new interactions, characters and objects.
+
+<img src="/media/ssg.gif" alt="ssg-gif" width="650"/>
 
 Source code is available [here](https://github.com/hasanheroglu/graduationproject).
+Bachelor's thesis is available [here](https://github.com/hasanheroglu/GraduationProject/blob/master/grad_files/bachelorsthesis.pdf).
+
+### Picker
+A prototype of a mobile 3D Picker game.
+
+<img src="/media/picker3d.gif" alt="3dpicker-gif" width="650"/>
+
+Source code is available [here](https://github.com/hasanheroglu/Picker3D).
 
 ### RunNDash
 A prototype of Endless Runner type of game I made. Player have an ability of dash to dodge obstacles.
