@@ -76,6 +76,8 @@ A prototype of a mobile 3D Picker game.
 
 <img src="/media/picker3d.gif" alt="3dpicker-gif" width="650"/>
 
+Playable on [itch.io](https://hasanheroglu.itch.io/picker-3d-prototype).
+
 Source code is available [here](https://github.com/hasanheroglu/Picker3D).
 
 ### RunNDash
