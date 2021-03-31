@@ -30,6 +30,12 @@ In below, you can see the result I get from my raytracer.
 
 Source code is available [here](https://github.com/hasanheroglu/RayTracer).
 
+Unfortunately, my implementation got out of the hand, hence I decided to follow Peter Shirley's amazing book and result is absolutely good.
+
+<img src="/media/ps_raytracer_result.png" alt="ps-raytracer-result" width="650" />
+
+Source code is available [here](https://github.com/hasanheroglu/raytracing-in-one-weekend).
+
 ### Bresenham's Line Algorithm
 Bresenham's Algorithm implementation to draw triangles using C++. I just did not stop with triangles and implemented it for circles too. If I want to go further from here, it could be a start of an image manipulation program. 
 
