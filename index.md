@@ -1,5 +1,6 @@
 # Who is this?
 Hey stranger! I'm Hasan. I graduated from Istanbul Technical University with a degree in Computer Engineering. I love games and game development. Also computer graphics is one of my interests. Here, in this page, you can see the various projects I did and contributed. 
+You can also reach my LinkedIn [here](https://www.linkedin.com/in/hasan-eroglu-0239b6108/). 
 
 # Contact
 Contact me from hasanheroglu@gmail.com
