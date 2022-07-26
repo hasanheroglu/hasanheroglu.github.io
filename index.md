@@ -1,6 +1,5 @@
-# Who is this?
-Hey stranger! I'm Hasan. I graduated from Istanbul Technical University with a degree in Computer Engineering. I am interested in several disciplines of Computer Science so you can see different kind of things here. I did some work about Computer Graphics, Game Design and Development but right now I am more focused on improving myself as Software Engineer. Here, in this page, you can see the various projects I did and contributed. 
-You can also reach my LinkedIn [here](https://www.linkedin.com/in/hasan-eroglu-0239b6108/). 
+<!-- # Who is this? -->
+Hey there stranger! I'm Hasan. I'm adaptable, ambitious Computer Engineering graduate, now studying Master’s in TUM. I am planning my Master studies accordingly, in order to improve myself in the area of Software Engineering and automation of the development cycle. Even though I am mostly experienced in the development part of the DevOps, also I would like to take part in the operations part. Here, in this page, you can see the various projects I did and contributed. You can also reach my LinkedIn [here](https://www.linkedin.com/in/hasanheroglu). 
 
 # Contact
 Contact me from hasanheroglu@gmail.com
@@ -9,6 +8,8 @@ Contact me from hasanheroglu@gmail.com
 * [Web Applications](#web-applications)
   * [VOTIT - Poll Application](#votit)
   * [Movie Database Web Application](#movie-database-web-application)
+
+<!--
 * [Computer Graphics](#computer-graphics)
   * [Raytracer](#raytracer)
   * [Bresenham's Line Algorithm](#bresenhams-line-algorithm)
@@ -20,7 +21,7 @@ Contact me from hasanheroglu@gmail.com
   * [RunNDash](#runndash)
   * [LUP!](#lup)
   * [2D Infiltration Game](#infiltration-game)
-
+-->
 ## Web Applications
 ### VOTIT
 A web-based poll application I made with my peers Berk Kaan Bilir, Ilmiye Elisa Pasaoglu and Orhan Hancer for our Software Engineering (BLG411E) course at ITU. Spring Boot and React.js is used for implementation of the project.
@@ -40,6 +41,7 @@ Source code of the frontend implementation is [here](https://github.com/hasanher
 
 Source code of backend implementation is [here](https://github.com/hasanheroglu/MovieDatabaseApp-Backend).
 
+<!--
 ## Computer Graphics
 ### Raytracer
 A raytracer implementation using C++. Right now, reflection and refraction is missing but I am planning to add them as soon as possible.
@@ -130,3 +132,5 @@ A game we made together with my peers Chris Katsikiotis, Jesualdo Garcia and Mar
 
 <img src="/media/inf_01.gif" alt="inf01-gif" width="325"/><img src="/media/inf_02.gif" alt="inf02-gif" width="325"/>
 <img src="/media/inf_03.gif" alt="inf03-gif" width="325"/><img src="/media/inf_04.gif" alt="inf04-gif" width="325"/>
+
+-->
