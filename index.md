@@ -1,9 +1,14 @@
 <!-- # Who is this? -->
-Hey there stranger! I'm Hasan. I'm adaptable, ambitious Computer Engineering graduate, now studying Master’s in TUM. I am planning my Master studies accordingly, in order to improve myself in the area of Software Engineering and automation of the development cycle. Even though I am mostly experienced in the development part of the DevOps, also I would like to take part in the operations part. Here, in this page, you can see the various projects I did and contributed. You can also reach my LinkedIn [here](https://www.linkedin.com/in/hasanheroglu). 
+Hey there stranger! I'm Hasan. I'm an adaptable, ambitious Computer Engineering graduate, soon to get an MSc. from the Technical University of Munich. I participated in exciting courses during my Master’s degree that improved my skills in the field of Software Engineering. I am interested in Software Development, Testing, and automating the development cycles. At the moment, I am working on my thesis “Private Preferences for Smart Environments based on Web of Things” using [Web of Things](https://www.w3.org/WoT/) and [Solid protocol](https://solidproject.org/). Here, in this page, you can see the various projects I did and contributed. You can also reach my LinkedIn [here](https://www.linkedin.com/in/hasanheroglu). 
 
 # Contact
 Contact me from hasanheroglu@gmail.com
 
+# Contributions
+* [node-wot](https://github.com/eclipse-thingweb/node-wot)
+* [WADE](https://github.com/tum-esi/wade)
+* [Testbench](https://github.com/tum-esi/testbench)
+* [test-things](https://github.com/eclipse-thingweb/test-things)
 # Projects 
 * [Web Applications](#web-applications)
   * [VOTIT - Poll Application](#votit)
